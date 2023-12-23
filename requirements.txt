@@ -1,0 +1,8 @@
+biopandas==0.4.1
+jupyter===1.0.0
+rdkit==2023.9.3
+scikit-learn==1.3.2
+seaborn==0.13.0
+Pmw==2.1.1
+pypdb==2.3
+requests==2.31.0
