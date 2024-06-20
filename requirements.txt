@@ -6,3 +6,6 @@ seaborn==0.13.0
 Pmw==2.1.1
 pypdb==2.3
 requests==2.31.0
+mordred==1.2.0
+statsmodels==0.14.2
+matplotlib==3.9.0
