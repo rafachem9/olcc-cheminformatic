@@ -8,3 +8,6 @@
 
 ## Pymol releases:
 - https://github.com/cgohlke/pymol-open-source-wheels/releases
+
+## Autodoc Vina
+- [Download Autodock Vina](https://vina.scripps.edu/downloads/)
