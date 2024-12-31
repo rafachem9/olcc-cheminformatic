@@ -5,3 +5,9 @@
 ## Python versión
 - We use Python version 3.10
 - Python libraries see [requierements.txt](requirements.txt)
+
+## Pymol releases:
+- https://github.com/cgohlke/pymol-open-source-wheels/releases
+
+## Autodoc Vina
+- [Download Autodock Vina](https://vina.scripps.edu/downloads/)
