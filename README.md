@@ -1,13 +1,22 @@
 # OLCC Cheminformatics
 
- Jupyter notebooks from the course Fall 2019 Cheminformatics OLCC
+This repository contains the Jupyter Notebooks used in the **Cheminformatics OLCC, Fall 2019** course. This course provides an introduction to cheminformatics and the use of Python for solving problems in this field.
 
-## Python versión
-- We use Python version 3.10
-- Python libraries see [requierements.txt](requirements.txt)
+---
 
-## Pymol releases:
-- https://github.com/cgohlke/pymol-open-source-wheels/releases
+## Environment Requirements
 
-## Autodoc Vina
+### Python Version
+- The course uses **Python 3.10**.
+
+### Installing Dependencies
+All required libraries are listed in the `requirements.txt` file. To install the dependencies, run the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Additional Tools
+### AutoDock Vina
+AutoDock Vina is an essential tool for molecular docking tasks. Download it from the official website:
 - [Download Autodock Vina](https://vina.scripps.edu/downloads/)

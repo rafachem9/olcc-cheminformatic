@@ -9,4 +9,4 @@ requests==2.31.0
 mordred==1.2.0
 statsmodels==0.14.2
 matplotlib==3.9.0
-pymol_launcher-3.0-cp310-cp310-win_amd64.whl
+pymol-program/pymol_launcher-3.0-cp310-cp310-win_amd64.whl
